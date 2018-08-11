@@ -1,7 +1,7 @@
 # Paint
 <p>Paint developed in C Language. This software works with the Turbo C/C++ compiler.</p>
 
-<p><strong>Notes before executing:</strong></p>
+<p><strong>Notes before executing code:</strong></p>
 <p>
 <ul>
   <li>
