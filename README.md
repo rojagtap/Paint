@@ -5,7 +5,7 @@
 <p>
 <ul>
   <li>
-    Change/Verify the location of the 3rd argument of the initgraph function to the location of 'BGI' directory of your Turbo Compiler
+    Change/Verify the location of the 3rd argument of the initgraph function to the location of 'BGI' directory of your Turbo Compiler.
   </li>
   <li>
     In Turbo C/C++, in Options > Linker > Libraries make sure the 'Graphics Library' option is checked.
